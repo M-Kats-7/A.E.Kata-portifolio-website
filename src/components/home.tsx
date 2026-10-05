@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { hero, about, projects, skills, contact } from '../data/portfolio'
 
-const avatarUrl = '/pP.png'
+const avatarUrl = '/public/web-profile.png'
 
 function Badge({ label }: { label: string }) {
   return (
