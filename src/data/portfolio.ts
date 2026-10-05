@@ -1,6 +1,6 @@
 export const hero = {
   name: 'Alvin Edward Katabalwa',
-  title: 'Software Engineer',
+  title: 'Software Developer',
   description:
     'I thrive on transforming concepts into reality, uniting software engineering, CAD design, and automotive expertise to drive innovation forward.',
   cta: 'View Projects'
